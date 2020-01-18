@@ -27,6 +27,9 @@ Once you have downloaded and installed the packages above you have to:
 4. Run plotting scripts in folder `plotscript`:
 
 `python plot_rb_files.py`
+
+and
+
 `python plot_gossip.py`
 
 
