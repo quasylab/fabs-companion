@@ -58,7 +58,7 @@ public class App {
 	}
 
 	public static int[] scale(String[] args) {
-		return new int[] { 1, 10 };
+		return new int[] { 1, 10, 100, 1000 };
     }
 
 	private static boolean[] getSimulationFlag(String[] args) {
