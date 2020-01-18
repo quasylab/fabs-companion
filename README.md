@@ -20,7 +20,7 @@ Once you have downloaded and installed the packages above you have to:
 
 `./gradlew build`
 
-3. Run simulations:
+3. Run simulations (this task may require many time):
 
 `./gradlew run`
 
